@@ -1,0 +1,29 @@
+_repo: The-Old-Showmen-and-the-Old-London-Fairs_41961
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41961-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Frost, Thomas
+    birthdate: 1821
+    deathdate: 1908
+    gutenberg_agent_id: '41446'
+    url: http://www.gutenberg.org/2009/agents/41446
+description: ''
+gutenberg_issued: '2013-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41961'
+  lccn: '16025746'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairs -- England -- London'
+- !lcc 'GV'
+- !lcc 'GT'
+- !lcsh 'London (England) -- Social life and customs'
+title: The Old Showmen and the Old London Fairs
+url: http://www.gutenberg.org/ebooks/41961
